@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 0bbcc9d6bac696d41ad5acc0756983cc
+timeCreated: 1511898313
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brekel_Pro_Hands
+    100002: //RootNode
+    100004: LeftHand
+    100006: LeftHandIndex1
+    100008: LeftHandIndex2
+    100010: LeftHandIndex3
+    100012: LeftHandIndex3_end
+    100014: LeftHandMiddle1
+    100016: LeftHandMiddle2
+    100018: LeftHandMiddle3
+    100020: LeftHandMiddle3_end
+    100022: LeftHandPinky1
+    100024: LeftHandPinky2
+    100026: LeftHandPinky3
+    100028: LeftHandPinky3_end
+    100030: LeftHandRing1
+    100032: LeftHandRing2
+    100034: LeftHandRing3
+    100036: LeftHandRing3_end
+    100038: LeftHandThumb1
+    100040: LeftHandThumb2
+    100042: LeftHandThumb3
+    100044: LeftHandThumb3_end
+    100046: RightHand
+    100048: RightHandIndex1
+    100050: RightHandIndex2
+    100052: RightHandIndex3
+    100054: RightHandIndex3_end
+    100056: RightHandMiddle1
+    100058: RightHandMiddle2
+    100060: RightHandMiddle3
+    100062: RightHandMiddle3_end
+    100064: RightHandPinky1
+    100066: RightHandPinky2
+    100068: RightHandPinky3
+    100070: RightHandPinky3_end
+    100072: RightHandRing1
+    100074: RightHandRing2
+    100076: RightHandRing3
+    100078: RightHandRing3_end
+    100080: RightHandThumb1
+    100082: RightHandThumb2
+    100084: RightHandThumb3
+    100086: RightHandThumb3_end
+    400000: Brekel_Pro_Hands
+    400002: //RootNode
+    400004: LeftHand
+    400006: LeftHandIndex1
+    400008: LeftHandIndex2
+    400010: LeftHandIndex3
+    400012: LeftHandIndex3_end
+    400014: LeftHandMiddle1
+    400016: LeftHandMiddle2
+    400018: LeftHandMiddle3
+    400020: LeftHandMiddle3_end
+    400022: LeftHandPinky1
+    400024: LeftHandPinky2
+    400026: LeftHandPinky3
+    400028: LeftHandPinky3_end
+    400030: LeftHandRing1
+    400032: LeftHandRing2
+    400034: LeftHandRing3
+    400036: LeftHandRing3_end
+    400038: LeftHandThumb1
+    400040: LeftHandThumb2
+    400042: LeftHandThumb3
+    400044: LeftHandThumb3_end
+    400046: RightHand
+    400048: RightHandIndex1
+    400050: RightHandIndex2
+    400052: RightHandIndex3
+    400054: RightHandIndex3_end
+    400056: RightHandMiddle1
+    400058: RightHandMiddle2
+    400060: RightHandMiddle3
+    400062: RightHandMiddle3_end
+    400064: RightHandPinky1
+    400066: RightHandPinky2
+    400068: RightHandPinky3
+    400070: RightHandPinky3_end
+    400072: RightHandRing1
+    400074: RightHandRing2
+    400076: RightHandRing3
+    400078: RightHandRing3_end
+    400080: RightHandThumb1
+    400082: RightHandThumb2
+    400084: RightHandThumb3
+    400086: RightHandThumb3_end
+    7400000: Root|HandsCapturepiano24_11_2017_16_26_30
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
